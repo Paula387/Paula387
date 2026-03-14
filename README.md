@@ -1,131 +1,79 @@
 # 👋 Hi, I'm Paula
 
-💻 Computer Science Student  
-🔍 Passionate about understanding **how systems work internally**  
-🔐 Interested in **Cybersecurity & Penetration Testing**  
-🚀 Building projects that combine **algorithms, systems, and security**
+## 💫 About Me
+Motivated and ambitious **Computer Science student** at the College of Computing and Information Technology,  
+Arab Academy for Science, Technology and Maritime Transport.
+
+I enjoy applying programming and analytical thinking to real-world problems and continuously improving my technical skills.
+
+🎓 Data Analyst graduate of the **Digital Egypt Pioneers Initiative** by the Egyptian Ministry of Communications.
+
+💡 Passionate about:
+- Problem solving
+- Software development
+- Data analysis
+- Continuous learning
+- Building impactful technology solutions
 
 ---
 
-## 🧠 About Me
-
-I enjoy exploring the deeper layers of computing — from data structures and algorithms to how software interacts with operating systems and networks.
-
-My focus is not only writing code but **understanding the architecture behind it**.
-
-Currently I am working on:
-- 🎓 Computer Science academic projects
-- 🧩 Algorithmic problem solving
-- 🔐 Learning cybersecurity concepts
-- 📚 Creating educational content about programming
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
-## 🛠️ Technical Skills
+# 💻 Tech Stack
 
-### Programming
-- C++
-- Java
-- Python (basic)
+### 👨‍💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Computer Science Fundamentals
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Software Design
+### 🗄 Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Web
-- HTML
-- CSS
-- React (basic knowledge)
+### 🌐 Frameworks & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### Other Areas
-- Git & GitHub
-- Debugging
-- System thinking
-- Technical research
+### 📊 Data Analysis
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
----
+### 📈 Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
-## 🔬 Areas of Interest
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
-- Cybersecurity
-- Penetration Testing
-- Software Architecture
-- Systems Programming
-- Networking
-- Reverse Engineering
+### ⚙️ Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 🚧 Current Projects
+# 📊 GitHub Stats
 
-### 📚 University Course Registration System
-A system that simulates a university course registration workflow including:
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-- Queue-based student processing
-- Priority handling (Regular / Delayed students)
-- Conflict checking between schedules
-- Capacity-based enrollment
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
 
-Concepts used:
-- Data structures
-- Queues
-- System design logic
-- Input validation
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
-### 🎥 Educational Programming Content
-
-Creating short-form technical content explaining:
-
-- Object-Oriented Programming
-- Programming concepts
-- Computer science fundamentals
-
-Goal: make complex concepts **simple and accessible**.
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📚 Currently Learning
-
-- Advanced Data Structures
-- Secure Software Development
-- Cybersecurity Fundamentals
-- System Design Principles
-
----
-
-## 🎯 Goals
-
-- Master low-level system concepts
-- Develop strong cybersecurity skills
-- Build impactful technical projects
-- Contribute to open-source
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (add if you create one)
-- TikTok: (optional)
-
----
-
-⭐ *Always curious about how things work under the hood.*
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
