@@ -6,14 +6,13 @@ Arab Academy for Science, Technology and Maritime Transport.
 
 I enjoy applying programming and analytical thinking to real-world problems and continuously improving my technical skills.
 
-🎓 Data Analyst graduate of the **Digital Egypt Pioneers Initiative** by the Egyptian Ministry of Communications.
-
 💡 Passionate about:
 - Problem solving
 - Software development
 - Data analysis
 - Continuous learning
 - Building impactful technology solutions
+- Content Creation
 
 ---
 
@@ -41,7 +40,8 @@ I enjoy applying programming and analytical thinking to real-world problems and 
 
 ### 🌐 Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 📊 Data Analysis
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
